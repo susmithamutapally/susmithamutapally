@@ -16,14 +16,14 @@ Interests: Data Science, Machine Learning, Statistical Analysis, Data Visualizat
 My Repositories:
 1. Machine Learning
 In this repository, I explore various machine learning algorithms and their applications. You'll find projects that leverage:
-Predictive Modeling
-Causal Inference
+Predictive Modeling,
+Causal Inference,
 Supervised and Unsupervised Learning
 
 2. Data Analysis Using Python
 This repository contains my data analysis projects where I utilize Python for:
-Sentiment Analysis using ChatGPT
-Exploratory Data Analysis (EDA)
+Sentiment Analysis using ChatGPT,
+Exploratory Data Analysis (EDA),
 Statistical Modeling
 
 3. Data Visualizations

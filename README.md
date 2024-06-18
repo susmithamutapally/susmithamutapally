@@ -1,5 +1,8 @@
 Welcome to My GitHub Profile!
-Hello! I am Susmitha Mutapally, a passionate Data Scientist with over six years of experience in data analytics, machine learning, and data visualization. I am currently an AI Data Science Engineer at Medtronic and a recent graduate from NYU Stern School of Business with a Master's in Business Analytics.
+
+Hello! 
+
+I am Susmitha Mutapally, a passionate Data Scientist with over six years of experience in data analytics, machine learning, and data visualization. I am currently an AI Data Science Engineer at Medtronic and a recent graduate from NYU Stern School of Business with a Master's in Business Analytics.
 
 About Me
 Current Role: AI Data Science Engineer at Medtronic

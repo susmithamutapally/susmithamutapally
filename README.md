@@ -5,6 +5,7 @@ Hello :wave:!
 I am Susmitha Mutapally :nerd_face:, a passionate Data Scientist with over six years of experience in data analytics, machine learning, and data visualization. I am currently an AI Data Science Engineer at Medtronic and a recent graduate from NYU Stern School of Business with a Master's in Business Analytics :woman_student:.
 
 About Me:
+
 Current Role: AI Data Science Engineer at Medtronic
 
 Education: Master of Science in Business Analytics, NYU Stern School of Business (GPA: 4.0/4.0)
@@ -31,6 +32,7 @@ Here, I showcase my skills in creating impactful data visualizations using tools
 
 
 Get in Touch :handshake::
+
 LinkedIn :envelope:: Susmitha Mutapally
 
 Email :email:: susmithamutapally@gmail.com

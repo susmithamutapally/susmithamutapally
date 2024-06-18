@@ -4,10 +4,13 @@ Hello!
 
 I am Susmitha Mutapally, a passionate Data Scientist with over six years of experience in data analytics, machine learning, and data visualization. I am currently an AI Data Science Engineer at Medtronic and a recent graduate from NYU Stern School of Business with a Master's in Business Analytics.
 
-About Me
+About Me:
 Current Role: AI Data Science Engineer at Medtronic
+
 Education: Master of Science in Business Analytics, NYU Stern School of Business (GPA: 4.0/4.0)
+
 Previous Experience: Senior Machine Learning Data Analyst at Amazon
+
 Interests: Data Science, Machine Learning, Statistical Analysis, Data Visualization, Healthcare Analytics, Digital Marketing Analytics
 
 My Repositories:

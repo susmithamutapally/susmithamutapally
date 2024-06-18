@@ -28,7 +28,7 @@ Exploratory Data Analysis (EDA),
 Statistical Modeling
 
 3. Data Visualizations :point_right:
-Here, I showcase my skills in creating impactful data visualizations using tools like R Shiny app.
+Here, I showcase my skills in creating impactful data visualizations using tools like R Shiny app, Plotly, Matplotlib, Seaborn in Python.
 
 
 Get in Touch :handshake::
